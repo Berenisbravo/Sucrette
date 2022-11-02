@@ -22,9 +22,9 @@ Telf. 72012466</font>
 <center>
 <font color="pink" size=6pt face="comic sans MS">NUESTROS PRODUCTOS</font>
 </center>
-<br>
-<center>
+<br><br>
 <head>
+  <center>
 <a href="https://berenisbravo.github.io/cupcakes/"> <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5f0wpW85FNG-JZj00nN82jJIR_tpvA1P25Yl2YHR_M12mc0UzmRNpQyrGzH2IH6oc2nXvGacDuXYuey_BWKhTtooXxi-ggraxW5mvG4vZH7_9vPkExXWimi2QElVDmblVjYGf1HZDlUg2GYtkMhd7L97ZfX3Cnnydx0pudMed2GUVqFBzPhrez4aIEg/s1600/cupcakes-vainilla-receta.jpg" width=70% alt="CUPCAKES"><br><br>
 <a href="https://berenisbravo.github.io/pasteles/"> <img src="https://cdn2.cocinadelirante.com/sites/default/files/styles/gallerie/public/images/2021/07/decorar-un-pastel-y-hacerlo-ligero-y-saludable.jpg" width=70% alt="PASTELES"><br><br>
 <a href="https://berenisbravo.github.io/gt/"> <img src="https://assets.unileversolutions.com/recipes-v2/38528.jpg" width=70% alt="GALLETAS"><br><br>
