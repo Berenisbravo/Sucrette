@@ -1,4 +1,4 @@
-# <html>
+<html>
 <head><title>Pagina de sistemas</title></head>|
 <body bgcolor="#EE82EE" text="#FFFFFF">
 <font color="yellow">
