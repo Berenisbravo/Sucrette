@@ -22,6 +22,7 @@ Telf. 72012466</font>
 <center>
 <font color="pink" size=6pt face="comic sans MS">NUESTROS PRODUCTOS</font>
 </center>
+<br>
 <center>
 <head>
 <a href="https://berenisbravo.github.io/cupcakes/"> <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5f0wpW85FNG-JZj00nN82jJIR_tpvA1P25Yl2YHR_M12mc0UzmRNpQyrGzH2IH6oc2nXvGacDuXYuey_BWKhTtooXxi-ggraxW5mvG4vZH7_9vPkExXWimi2QElVDmblVjYGf1HZDlUg2GYtkMhd7L97ZfX3Cnnydx0pudMed2GUVqFBzPhrez4aIEg/s1600/cupcakes-vainilla-receta.jpg" width=70% alt="CUPCAKES"><br><br>
