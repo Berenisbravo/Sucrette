@@ -1,6 +1,5 @@
 # Sucrette
-<html>
-<head><title>Pagina de sistemas</title></head>|
+<html>|
 <body bgcolor="#EE82EE" text="#FFFFFF">
 <font color="yellow">
 <h1 align="center">PASTELERIA SUCRETTE</H1><br>
