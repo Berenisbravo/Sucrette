@@ -28,7 +28,7 @@ Telf. 72012466</font>
 cgWDH2L05yYXoHt_EQCLcB/s1600/cupcakes-vainilla-decorados-merengue.jpgç" width=70% alt="CUPCAKES"><br><br>
 <a href="https://berenisbravo.github.io/pasteles/"> <img src="https://cdn2.cocinadelirante.com/sites/default/files/styles/gallerie/public/images/2021/07/dec
 orar-un-pastel-y-hacerlo-ligero-y-saludable.jpg" width=70% alt="PASTELES"><br><br>
-<a href="https://drive.google.com/file/d/18EcRNl3Y0--yyp_iylKvr3Sjvxlo281i/view?usp=drivesdk"> <img src="https://assets.unileversolutions.com/recipes-v2/38528.jpg" width=70% alt="GALLETAS"><br><br>
+<a href="https://berenisbravo.github.io/gt/"> <img src="https://assets.unileversolutions.com/recipes-v2/38528.jpg" width=70% alt="GALLETAS"><br><br>
 </center>
 <center>
 <h1> EL TRABAJO HONESTO DIGNIFICA EL ALMA</h1>
